@@ -1,0 +1,7 @@
+C:\Users\sashe\source\repos\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\sashe\source\repos\Project2\Project2\obj\Debug\Project2.csproj.ResolveComReference.cache
+C:\Users\sashe\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\sashe\source\repos\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\sashe\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\sashe\source\repos\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\sashe\source\repos\Project2\Project2\obj\Debug\Project2.pdb
